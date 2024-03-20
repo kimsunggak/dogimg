@@ -13,31 +13,31 @@ initial_pokemons = [
         "name": "뽀미",
         "types": ["말티즈"],
         "year": "2015",
-        "image_url": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA4MzBfNzgg%2FMDAxNjkzMzYzNDI4Mjkw.03czQzdbjkr-TEp65Ah0CMMNvgyCYKY2ZaO9K4No4Twg.KWbEfHJGunVSLS03Tni8_HkuusqWQPS_UK28DhSprJkg.JPEG.buddydoc%2F%25B9%25F6%25B5%25F0%25B4%25DA_%25B8%25BB%25C6%25BC%25C1%25EE_%25C6%25AF%25C2%25A1.jpg&type=a340"
+        "image_url": "https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjBfMjc1/MDAxNzEwOTEzMzE3MTcw.zt7p-kJWEZw0pml0VW9h4_xpWZhtJA9SIAkTWuLywRgg.k5B3Fu2DqUhzIZ-OcWN1kvipeM4I7lC---0yu26ey-sg.JPEG/6ABBC9E6-9F9B-4A2D-8886-488D8AB47874.jpg?type=w800"
     },
     {
         "name": "초코",
         "types": ["리트리버"],
         "year": "2016",
-        "image_url": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAyMTNfMTU4%2FMDAxNzA3ODA1ODYzNzkx.Z2ejeZfzxa_GzQsk4IYzkzFqvTF4Z3R3YVS8hoAwfG8g.9MGkcuR5GBYPNftrGcxM606xOcVPUNy51x-_ZLhhG1Ag.JPEG.savanna2020%2F%25BA%25BB%25B9%25AE%25C0%25CC%25B9%25CC%25C1%25F6_%25BB%25E7%25B9%25D9%25B3%25AA.jpg&type=a340",
+        "image_url": "https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjBfMTk4/MDAxNzEwOTEzMzE3MjI2.Ak4eBQjQMRrtpv1Qchb4BUz1t6dW5AN5mkj9iWaeMd0g.olYL9e2c8ccybgYn_oMYjY0PII6dmGiV0-MEsNsqqF8g.JPEG/A0DD673E-52B0-4704-8F32-EB87172D4713.jpg?type=w800",
     },
     {
         "name": "흰둥이",
         "types": ["시츄"],
         "year": "2017",
-        "image_url": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA4MTRfNzYg%2FMDAxNjkyMDA4MzI0MDk2.tw5GZe1qtxBL8EX48r9bgvTWfBnBhTnmBXCtnahShngg.rxoxWN0YMEjJFLSmFinLA6eABh84W2iDzQp13ky7dMwg.PNG.choi540%2Faf4f3a9d-eb5f-4510-addf-d11bac4fbaa9.png&type=a340",
+        "image_url": "https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjBfMTk4/MDAxNzEwOTEzMzE3MjMw.7aT5ANu-UhipmJ1TOsKpZ4oNTHbGEhW9AlW9uUEBVpIg.Xo7S1aMCsis-g2PqkP5T4Dix2MtiudDn2hVZuci7vyAg.JPEG/AC30FD80-B6D7-48A7-B543-B87BA04E7828.jpg?type=w800",
     },
     {
         "name": "허세",
         "types": ["허스키"],
         "year": "2018",
-        "image_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi3.ruliweb.com%2Fimg%2F22%2F12%2F12%2F18504190a1a56fde7.png&type=a340"
+        "image_url": "https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjBfMjAw/MDAxNzEwOTEzMzE3MzQ0.R0vtHTl-pbs7qN6Y7EyVxIdGZkSzhgEhY0GISvhwCNgg.tUbRIKwyvmMfzf-vehgcX7ylOPI2nAuUlPFnXxTMM00g.JPEG/C35F151D-AD37-48B0-A55A-EF0EB3E4BF7F.jpg?type=w800"
     },
     {
         "name": "성각",
         "types": ["진돗개"],
         "year": "2019",
-        "image_url": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA5MDhfNTgg%2FMDAxNjk0MTUxMTY1Mzcy.Jwm9xjCDxeoTp02rWWqcihCQgiXWknppLE09D2Ara6Ig.ik53pJwKcBfeSAYbeGsLmOnGiHRK9JgSsABeCEzD-A4g.PNG.merry_diary%2F%25C1%25F8%25B5%25BE%25B0%25B3_%25C1%25BE%25B7%25F9_%25BC%25F6%25B8%25ED_%25288%2529.PNG&type=a340"
+        "image_url": "https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjBfMjc4/MDAxNzEwOTEzMzE3MDAw.OYbdWCyJYWNrjSuB0W1I0wXbBg5HRsz2vTj6xnQqHqgg.fX1gIXV3dpxWPiKYJvjItxCdvSPBuqdNBlBo38Xq90kg.JPEG/9EC29AE3-0AA0-45A7-B36A-40C633EE4D8D.jpg?type=w800"
     }  
 ]
 
