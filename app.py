@@ -53,7 +53,7 @@ example_pokemon = {
     "name": "성각",
     "types": ["진돗개"],
     "year": "2019",
-    "image_url": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA5MDhfNTgg%2FMDAxNjk0MTUxMTY1Mzcy.Jwm9xjCDxeoTp02rWWqcihCQgiXWknppLE09D2Ara6Ig.ik53pJwKcBfeSAYbeGsLmOnGiHRK9JgSsABeCEzD-A4g.PNG.merry_diary%2F%25C1%25F8%25B5%25BE%25B0%25B3_%25C1%25BE%25B7%25F9_%25BC%25F6%25B8%25ED_%25288%2529.PNG&type=a340"
+    "image_url": "https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjBfMjc4/MDAxNzEwOTEzMzE3MDAw.OYbdWCyJYWNrjSuB0W1I0wXbBg5HRsz2vTj6xnQqHqgg.fX1gIXV3dpxWPiKYJvjItxCdvSPBuqdNBlBo38Xq90kg.JPEG/9EC29AE3-0AA0-45A7-B36A-40C633EE4D8D.jpg?type=w800"
 }
 
 #하나만 추가되는 현상을 수정하기 위함
